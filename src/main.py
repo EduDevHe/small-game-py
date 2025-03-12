@@ -1,3 +1,12 @@
+import sys
+import os
 
-if __name__ == "main":
-    
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from src.game import Game
+
+if __name__ == "__main__":
+    game = Game()
+    game.run()
+
+
