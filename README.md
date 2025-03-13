@@ -6,7 +6,7 @@
 
 PyZombie is a minimalist 2D top-down shooter developed as a learning project. Built with Python’s Pygame library.
 
-<img salign="center" src=".github/assets/example.gif" width="250" height="250" />
+<img align="center" src=".github/assets/example.gif" width="250" height="250" />
 
 ## Clone
 
