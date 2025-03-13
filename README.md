@@ -4,7 +4,9 @@
 
 <h1 align="center"> Small game PyZombie </h1>
 
-PyZombie is a small game made for educational purposes made with the pygamer library.
+PyZombie is a minimalist 2D top-down shooter developed as a learning project. Built with Python’s Pygame library.
+
+<img salign="center" src=".github/assets/example.gif" width="40" height="40" />
 
 ## Clone
 
